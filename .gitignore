@@ -1,2 +1,3 @@
 *~
-
+*.elc
+.emacs.d/el-get/recipes/emacswiki/*
